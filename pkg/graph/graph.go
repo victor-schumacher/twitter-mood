@@ -1,7 +1,7 @@
 package graph
 
 import "github.com/Arafatk/glot"
-const Ahh = "aaa"
+
 func plot() {
 
 	dimensions := 2
