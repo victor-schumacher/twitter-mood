@@ -1,0 +1,13 @@
+# github.com/Arafatk/glot v0.0.0-20180312013246-79d5219000f0
+## explicit
+github.com/Arafatk/glot
+# github.com/cdipaolo/goml v0.0.0-20190412180403-e1f51f713598
+## explicit
+github.com/cdipaolo/goml/base
+github.com/cdipaolo/goml/text
+# github.com/cdipaolo/sentiment v0.0.0-20200617002423-c697f64e7f10
+## explicit
+github.com/cdipaolo/sentiment
+# golang.org/x/text v0.3.3
+## explicit
+golang.org/x/text/transform
