@@ -6,10 +6,10 @@ import (
 )
 
 func Auth() *twitter.Client {
-	accessToken:="1130660432681799681-gKk2Qf1LJpuWGGBDhunnCM5TsBQPB9"
-	accessTokenSecret:="7GNSMAnva0V78xCpqdJ433H07zeMbkFERdrYmbeomleH1"
-	key:="2zr105kPhmM6qxmkqHeYsl6mC"
-	secretKey:="7MjZeewsCjLaAZriEr68bJZaFEARmYO1OdrPznXY9sypHWTsVV"
+	accessToken:=""
+	accessTokenSecret:=""
+	key:=""
+	secretKey:=""
 
 
 	config := oauth1.NewConfig(key, secretKey)
